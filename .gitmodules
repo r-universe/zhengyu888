@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "WtTopsis"]
+	path = WtTopsis
+	url = https://github.com/zhengyu888/wttopsis
+	shallow = true
+	registered = true
